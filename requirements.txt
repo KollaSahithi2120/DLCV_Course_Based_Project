@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+diffusers
+Pillow
+torch
+sqlalchemy
+streamlit
+requests
