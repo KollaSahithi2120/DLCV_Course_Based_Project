@@ -189,3 +189,19 @@ This application uses the following:
 - **[PyTorch](https://pytorch.org/)** for running the Stable Diffusion model.
 
 Enjoy creating stunning AI-generated visuals with **ImaginAItion**! 🌟
+
+---
+
+## Results
+
+#### 1. Eiffel tower in fire
+
+![Eiffel_tower_on_fire](https://github.com/user-attachments/assets/78ca5ac5-ee86-43cc-a423-f55aabb7f06f)
+
+#### 2. A snowy mountain peak with northern light
+
+![A_snowy_mountain_peak_under_a_starry_sky_with_the_Northern_Lights](https://github.com/user-attachments/assets/462eebe5-4594-4ae2-b4a4-15aaa817d7dd)
+
+#### 3. Sunset in Antarctica
+
+![sunset_in_antartica](https://github.com/user-attachments/assets/3474f504-79aa-4345-a250-7597c417850f)
